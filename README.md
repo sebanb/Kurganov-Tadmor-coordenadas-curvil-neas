@@ -1,3 +1,3 @@
-# Kurganov-Tadmor-coordenadas-curvil-neas
+# Kurganov-Tadmor coordenadas-curvilíneas
 
 Desarrolado por Sebasti
